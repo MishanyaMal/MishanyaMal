@@ -6,6 +6,6 @@
 A little about me:
 
 - 🔭 I’m currently working on Python projects
-- 🌱 I’m currently learning Frontend-programming
+- 🌱 I’m currently learning Frontend and Backend-programming
 - 🤔 I’m looking for help with professional users
 - ⚡ Fun fact: I like basketball
