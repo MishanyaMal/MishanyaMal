@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**MishanyaMal/MishanyaMal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MishanyaMal/MishanyaMal** is a ✨ _special_ ✨ repository because I am a part of new generation.
 
-Here are some ideas to get you started:
+A little about me:
 
 - 🔭 I’m currently working on Python projects
 - 🌱 I’m currently learning Frontend-programming
